@@ -24,3 +24,6 @@ elif choice == "2":
 elif choice == "3":
     result = num1 * num2
     print("Result:", result)
+
+    Float result[2]
+    Leetcode solved question
